@@ -1,0 +1,7 @@
+{
+  "name": "qrcode",
+  "repo": "2factorbuddy/qrcode",
+  "scripts": [
+    "index.js"
+  ]
+}
